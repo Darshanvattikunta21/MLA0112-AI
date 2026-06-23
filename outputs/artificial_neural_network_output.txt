@@ -1,0 +1,4 @@
+Input: [1, 0]
+Hidden layer: [0.622, 0.5]
+Network output: 0.619
+Predicted class: 1

@@ -1,0 +1,8 @@
+Map coloring solution:
+WA = red
+NT = green
+SA = blue
+Q = red
+NSW = green
+V = red
+T = red

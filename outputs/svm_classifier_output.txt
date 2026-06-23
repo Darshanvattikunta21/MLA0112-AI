@@ -1,0 +1,3 @@
+Weights: [0.168, 0.147]
+Bias: -0.38
+Prediction for (5, 5): 1

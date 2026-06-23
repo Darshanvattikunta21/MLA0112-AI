@@ -1,0 +1,3 @@
+Query point: (5, 5)
+Nearest neighbors: [((6, 5), 'high'), ((3, 3), 'low'), ((7, 7), 'high')]
+Predicted class: high

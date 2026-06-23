@@ -1,6 +1,6 @@
-# Output Images
+# Outputs
 
-PNG output previews are stored here for the Python and Prolog examples.
+PNG output previews and text output files are stored here for the Python and Prolog examples.
 
 - `astar_search_output.png`
 - `backward_chaining_output.png`
@@ -21,3 +21,30 @@ PNG output previews are stored here for the Python and Prolog examples.
 - `student_teacher_subcode_output.png`
 - `sumof_int_output.png`
 - `towers_of_hanoi_output.png`
+- `alpha_beta_pruning_output.png`
+- `artificial_neural_network_output.png`
+- `decision_tree_id3_output.png`
+- `entropy_information_gain_output.png`
+- `hill_climbing_output.png`
+- `knn_classifier_output.png`
+- `map_coloring_csp_output.png`
+- `n_queens_output.png`
+- `naive_bayes_classifier_output.png`
+- `perceptron_learning_output.png`
+- `q_learning_output.png`
+- `simulated_annealing_output.png`
+- `svm_classifier_output.png`
+- `alpha_beta_pruning_output.txt`
+- `artificial_neural_network_output.txt`
+- `decision_tree_id3_output.txt`
+- `entropy_information_gain_output.txt`
+- `hill_climbing_output.txt`
+- `knn_classifier_output.txt`
+- `map_coloring_csp_output.txt`
+- `minimax_output.txt`
+- `n_queens_output.txt`
+- `naive_bayes_classifier_output.txt`
+- `perceptron_learning_output.txt`
+- `q_learning_output.txt`
+- `simulated_annealing_output.txt`
+- `svm_classifier_output.txt`

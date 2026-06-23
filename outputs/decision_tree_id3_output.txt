@@ -1,0 +1,6 @@
+Entropy: 0.971
+Gain(outlook): 0.322
+Gain(temperature): 0.02
+Gain(humidity): 0.125
+Gain(wind): 0.091
+ID3 tree: {'outlook': {'overcast': 'yes', 'rain': {'wind': {'strong': 'no', 'weak': 'yes'}}, 'sunny': {'humidity': {'high': 'no', 'normal': 'yes'}}}}

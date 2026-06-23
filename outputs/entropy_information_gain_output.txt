@@ -1,0 +1,4 @@
+Parent entropy: 0.918
+Sunny entropy: 0.918
+Rainy entropy: -0.0
+Information gain: 0.459

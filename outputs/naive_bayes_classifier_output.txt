@@ -1,0 +1,2 @@
+Prediction: yes
+Scores: {'no': 0.0556, 'yes': 0.12}

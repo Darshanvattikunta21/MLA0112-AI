@@ -1,0 +1,5 @@
+Q('A', 'B') = 0.8
+Q('A', 'C') = 1.6
+Q('B', 'D') = 1.0
+Q('C', 'D') = 2.0
+Best first action from A: C

@@ -1,0 +1,2 @@
+Best point: 4
+Best value: 20

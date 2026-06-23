@@ -1,0 +1,5 @@
+Solution for 4-Queens:
+. Q . .
+. . . Q
+Q . . .
+. . Q .
